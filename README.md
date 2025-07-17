@@ -24,5 +24,5 @@ bash GACS-Jammy.sh
 Kirim kopi
 
 ```
-https://sociabuzz.com/achmadpr/tribe
+https://sociabuzz.com/achmadpr/donate
 ```
