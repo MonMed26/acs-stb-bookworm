@@ -50,8 +50,8 @@ print_banner() {
 	echo "  \____/_/   \_\____|____/   |____/ \___|_|  |_| .__/ \__|"
 	echo "                                               |_|        "
 	echo ""
-	echo "                  --- Ubuntu 22.04 ---"
-	echo "                  --- AchmadPR ---"
+	echo "                  --- Bookworm ---"
+	echo "                  --- Abang Medot ---"
 	echo -e "${NC}"
 }
 
